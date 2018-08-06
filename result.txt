@@ -1,0 +1,27 @@
+OUTPUT
+ENTER THE EMPLOYEE NAME: Babar Ganesh
+ENTER CODE: 333
+ENTER DEPARTMENT: Developer
+ENTER DESSIGNATION: Engineer
+ENTER THE ACCOUNT NO: 334
+ENTER DATE OF JOINING: 25 01 2020
+ENTER PAYABLE DAYS: 30
+ENTER SALARY PER DAY: 1000
+_________________________________________________________________
+WIPRO
+_________________________________________________________________
+| NAME=Babar Ganesh | ACCOUNT NO=334 |
+| CODE=333 | DESIGNATION=Engineer |
+| DEPT=Developer| DOJ=25/01/2020 |
+| | DAYS PAYMENT=30 |
+_________________________________________________________________
+|PAYMENT | Rs | DEDUCTION | Rs |
+_________________________________________________________________
+|BASIC SALARY= 27000 | PR.FUND= 1080 |
+|DENTAL= 1350 | GPF= 270 |
+|HRA= 3240 | LIC= 3240 |
+|TRAVELLING= 2430 |
+_________________________________________________________________
+| TOTAL1=34020 | TOTAL2=4590 |
+_________________________________________________________________
+NET PAYMENT=2943
